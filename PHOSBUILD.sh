@@ -1,3 +1,5 @@
+rm -rf /opt/PHANTX/bin/httpx
+
 cd cmd/httpx
 
 go build
